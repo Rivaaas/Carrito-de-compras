@@ -1,9 +1,7 @@
-✅
-
 
 1.Ecommerce
 
-- Muestra una lista de productos que vienne de un JSON
+✅ Muestra una lista de productos que vienne de un JSON
 - Añade un filtro por categoria
 - Añade un filtro por precio
 
