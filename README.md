@@ -2,8 +2,8 @@
 1.Ecommerce
 
 ✅ Muestra una lista de productos que vienne de un JSON
-- Añade un filtro por categoria
-- Añade un filtro por precio
+✅Añade un filtro por categoria
+✅Añade un filtro por precio
 
 Haz uso de useContext para evitar pasar props innecesarias.
 

@@ -9,6 +9,7 @@ export function Filters ({onChange}) {
 
   const [minPrice, setMinPrice] = useState("")
 
+
   const handleChangeMinPrice = (event) => {
     setMinPrice(event?.target.value)
     onChange(prevState => ({
@@ -24,6 +25,7 @@ export function Filters ({onChange}) {
       category: event?.target.value
     }))
   }
+
   return (
       <section className='filters'>
         <div>
